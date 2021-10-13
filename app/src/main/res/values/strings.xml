@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Login use SharedPreferences</string>
+    <string name="login_email_hint">User name</string>
+    <string name="login_password_hint">Password</string>
+</resources>
